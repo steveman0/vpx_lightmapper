@@ -1,4 +1,4 @@
-# Visual Pinball X Light Mapper
+# Visual Pinball X Light Mapper 
 
 *A [Blender](www.blender.org) add-on to help building pretty baked tables for the [world's favorite pinball simulator](https://github.com/vpinball/vpinball).*
 
