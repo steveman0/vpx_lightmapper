@@ -41,7 +41,7 @@ jobs:
       - run: |
           mkdir tmp
           cp -r addons/vpx_lightmapper tmp
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: vpx_lightmapper-${{ needs.version.outputs.tag }}
           path: tmp
